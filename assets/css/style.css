@@ -1,8 +1,10 @@
 .navbar{
     background-color: darkturquoise;
+    width: 100%;
 }
 body{
     background-color: black;
+    padding-top: 7rem;
 }
 hr{
     color:aqua;
@@ -25,4 +27,7 @@ footer{
     background-color:aqua;
     color:white;
     width: 100%;
+}
+html{
+    scroll-behavior: smooth
 }
