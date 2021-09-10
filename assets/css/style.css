@@ -20,9 +20,9 @@ nav{
 .card-body{
     color:white;
     background-color:aqua;
-    
 }
 footer{
     background-color:aqua;
     color:white;
+    width: 100%;
 }
