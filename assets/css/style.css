@@ -7,3 +7,18 @@ body{
 hr{
     color:aqua;
 }
+
+.card{
+    border: 1px solid white;
+}
+nav{
+    font-size: 2rem;
+}
+.navbar-brand{
+    font-size: 2rem;
+}
+.card-body{
+    color:white;
+    background-color:aqua;
+    
+}
